@@ -1,0 +1,31 @@
+{
+  "name": "findox",
+  "version": "1.0.0",
+  "description": "finNLP documentation generator",
+  "main": "./lib/index.js",
+  "dependencies": {
+    "handlebars": "^4.0.6",
+    "marked": "^0.3.6",
+    "node-static": "^0.7.9",
+    "socket.io": "^1.7.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FinNLP/findox.git"
+  },
+  "keywords": [
+    "fin",
+    "nlp",
+    "documentaion"
+  ],
+  "author": "Alex Corvi <alex@arrayy.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FinNLP/findox/issues"
+  },
+  "homepage": "https://github.com/FinNLP/findox#readme"
+}
