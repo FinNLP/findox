@@ -1,6 +1,5 @@
 {
   "name": "findox",
-  "version": "1.0.3",
   "description": "finNLP documentation generator",
   "main": "./lib/index.js",
   "bin": {
